@@ -1,0 +1,62 @@
+
+
+Final score on 3000 samples is 0.7948479205462445
+
+
+
+
+
+
+these are some samples(true_derivatives and Predicted derivatives)
+
+52sin(9v)*cos^6(9v) 252sin(9v)*cos^6(9v)
+8exp^(m)+57exp^(3m) 8exp^(m)+57exp^(3m)
+70b^6+63b^8 70b^6+63b^8
+22m^10*sin(m^11)*cos(m^11) 22m^10*sin(m^11)*cos(m^11)
+1568cos(16o)*sin^6(16o) 1568cos(16o)*sin^6(16o)
+6exp^(14o)*e^5 14exp^(14o*e^5
+532k^6*cos(k^7)*sin^3(k^7) 532k^6*cos(k^7)*sin^3(k^7)
+900exp^(15s)*s+60exp^(15s) 900exp^(15s)*s+60exp^(15s)
+24t^2*exp^(12v) 14t^2*exp^(12v)
+54c^2+190c^9+17 54c^2+190c^9+17
+120exp^(x)*x^5+600exp^(x)*x^4 120exp^(x)*x^5+660exp^(x)*x^4
+324exp^(3n)*b^2 108exp^(3n)*b^2
+560sin(5t)*cos^6(5t) 560sin(5t)*cos^6(5t)
+5y^4+70y^6 5y^4+70y^6
+26i+30i^5+90i^5+90i^8 26i+30i^5+90i^5+90i^8
+154s^10+162s^8+136s^7 154s^10+162s^8+136s^7
+27exp^(9s)+204exp^(17s) 27exp^(9s)+204exp^(17s)
+70exp^(7a)+240exp^(12a) 70exp^(7a)+240exp^(12a)
+144c*sin(3c^2)*cos^7(3c^2) 144c*sin(3c^2)*cos^7(3c^2)
+48exp^(3k)*k^7+112exp^(3k)*k^6 48exp^(3k)*k^7+112exp^(3k)*k^6
+64u^3+54u^5+33u^2+190u^9 64u^3+54u^5+33u^2+190u^9
+361exp^(19r)+30exp^(3r) 361exp^(19r)+30exp^(3r)
+28c^3*sin(7c^4) 28c^3*sin(7c^4)
+220k^10+57k^2+42k^2+72k^3 220k^10+57k^2+42k^2+72k^3
+340n^3*sin^6(11x^7) 360n^3*sin^6(11x^7)
+252m^8*cos(7m^9) 252m^8*cos(7m^9)
+160exp^(16y) 160exp^(16y)
+882e^2*cos(14e^3)*sin^6(14e^3) 8828e^2*cos(14e^3)*sin^6(14e^3)
+60k*exp^(17i) 600k^^*1117
+63c^8+24c 63c^8+24c
+2268e^5*cos(7e^6)*sin^2(7e^6) 2268e^5*cos(7e^6)*sin^2(7e^6)
+90exp^(9o) 90exp^(9oo)tt
+30exp^(2r)+60exp^(10r) 30exp^(2r)+60exp^(10r)
+720u^2*cos(2u^3)*sin^7(2u^3) 720u^2*cos(2u^3)*sin^7(2u^3)
+84n^6+54n^5+162n^8+80n^7 84n^6+54n^2+152n^8+80n^7
+1785x^4*sin(7x^5)*cos^2(7x^5) 1995x^4*sin(7x^5)*cos^2(7x^5)
+81z^8+6+64z^7 81z^8+6+64z^7
+1296sin(12i)*cos^8(12i) 1296sin(12i)*cos^8(12i)
+840c*sin(7c^2)*cos^5(7c^2) 840c*sin(7c^2)*cos^5(7c^2)
+252exp^(18i)+162exp^(18i) 252exp^(18i)+162exp^(18i)
+840sin^5(13a^8)*exp^(12r) 840sin^5(13a^8)*exp^(12r)
+200exp^(20y)+252exp^(18y) 200exp^(20y)+252exp^(18y)
+12t+45t^4+88t^7 12t+45t^4+88t^7
+2100y^6*cos(3y^7)*sin^9(3y^7) 2100y^6*cos(3y^7)*sin^9(3y^7)
+140c^9+8c^3+51c^2+27c^8 140c^9+8c^3+51c^2+27c^8
+5760p^8*sin(8p^9)*cos^9(8p^9) 5760p^8*sin(8p^9)*cos^9(8p^9)
+55w^4+154exp^(11w) 55w^4+154exp^(11w)
+980z^9*exp^(z)+98z^10*exp^(z) 980z^9*exp^(z)+98z^10*exp^(z)
+900i^5*exp^(10z) 150i^5*expexp^(10z)
+0.7948479205462445
+

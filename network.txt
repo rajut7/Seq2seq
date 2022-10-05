@@ -1,0 +1,47 @@
+Encoder Network:
+ENCODER(
+  (embedding): Embedding(61, 512)
+  (gru): GRU(512, 512, num_layers=2)
+)
+
+Name                  parameter Shape           parameters       require grading
+embedding.weight	(61, 512)	         31232	                   True
+gru.weight_ih_l0	(1536, 512)	         786432	                   True
+gru.weight_hh_l0	(1536, 512)	         786432	                   True
+gru.bias_ih_l0	        (1536,) 	         1536	                   True
+gru.bias_hh_l0	        (1536,)	                 1536	                   True
+gru.weight_ih_l1	(1536, 512)	        786432	                   True
+gru.weight_hh_l1	(1536, 512)	        786432	                   True
+gru.bias_ih_l1	         (1536,)	        1536	                  True
+gru.bias_hh_l1	         (1536,)	         1536	                  True
+
+
+Total Parameters:                               3183104
+
+
+Decoder Network:
+
+DECODER(
+  (embedding): Embedding(40, 512)
+  (gru): GRU(512, 512, num_layers=2)
+  (out): Linear(in_features=512, out_features=40, bias=True)
+  (softmax): LogSoftmax(dim=1)
+)
+
+
+Name                  parameter Shape           parameters       require grading
+embedding.weight	(40, 512)	           20480	 True
+gru.weight_ih_l0	(1536, 512)	          786432	 True
+gru.weight_hh_l0	(1536, 512)	          786432	 True
+gru.bias_ih_l0	          (1536,)	            1536	 True
+gru.bias_hh_l0	          (1536,)	            1536	 True
+gru.weight_ih_l1	(1536, 512)	          786432	 True
+gru.weight_hh_l1	(1536, 512)	          786432	 True
+gru.bias_ih_l1	         (1536,)	            1536	 True
+gru.bias_hh_l1	         (1536,)	            1536	 True
+out.weight	         (40, 512)	           20480	 True
+out.bias	        (40,)      	           40	         True
+
+
+Total Parameters:                                3192872
+
